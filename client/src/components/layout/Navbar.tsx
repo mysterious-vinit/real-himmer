@@ -3,6 +3,8 @@ import { Button } from "@/components/ui/button";
 import {
   Sheet,
   SheetContent,
+  SheetHeader,
+  SheetTitle,
   SheetTrigger,
 } from "@/components/ui/sheet";
 import { Menu } from "lucide-react";
@@ -52,6 +54,9 @@ export default function Navbar() {
               </Button>
             </SheetTrigger>
             <SheetContent className="w-[240px] mt-16">
+              <SheetHeader>
+                <SheetTitle>Navigation Menu</SheetTitle>
+              </SheetHeader>
               <div className="flex flex-col gap-2 mt-4">
                 <NavLinks />
               </div>
