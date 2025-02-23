@@ -4,19 +4,34 @@ import { motion } from "framer-motion";
 export default function About() {
   const team = [
     {
-      name: "Vinit Sharma",
+      name: "Vinit Kumar",
       role: "Founder & CEO",
       image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
     },
     {
-      name: "Sarah Johnson",
+      name: "Saheel Akbar",
       role: "Strategy Director",
       image: "https://images.unsplash.com/photo-1523240795612-9a054b0db644",
     },
     {
-      name: "Mark Thompson",
+      name: "Siddharth Karnwal",
       role: "Analytics Lead",
       image: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85",
+    },
+    {
+      name: "Gaurav Tyagi",
+      role: "Video and Design",
+      image: "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d",
+    },
+    {
+      name: "Kunal Singh",
+      role: "Editor Trainee",
+      image: "https://images.unsplash.com/photo-1531427186611-ecfd6d936c79",
+    },
+    {
+      name: "Atul Tripathi",
+      role: "Execution and Communication",
+      image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330",
     },
   ];
 
