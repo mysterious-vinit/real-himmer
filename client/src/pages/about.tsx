@@ -6,32 +6,32 @@ export default function About() {
     {
       name: "Vinit Kumar",
       role: "Founder & CEO",
-      image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+      image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c", // People working on laptops
     },
     {
       name: "Saheel Akbar",
       role: "Strategy Director",
-      image: "https://images.unsplash.com/photo-1523240795612-9a054b0db644",
+      image: "https://images.unsplash.com/photo-1523240795612-9a054b0db644", // Team discussing strategy
     },
     {
       name: "Siddharth Karnwal",
       role: "Analytics Lead",
-      image: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85",
+      image: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85", // Analytics and data visuals
     },
     {
       name: "Gaurav Tyagi",
       role: "Video and Design",
-      image: "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d",
+      image: "https://images.unsplash.com/photo-1504384308090-c894fdcc538d", // Video editing setup
     },
     {
       name: "Kunal Singh",
       role: "Editor Trainee",
-      image: "https://images.unsplash.com/photo-1531427186611-ecfd6d936c79",
+      image: "https://images.unsplash.com/photo-1512310604669-443f26b4822e", // Video editing in progress
     },
     {
       name: "Atul Tripathi",
       role: "Execution and Communication",
-      image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330",
+      image: "https://images.unsplash.com/photo-1562572159-7fc3135f27d6", // Business communication setting
     },
   ];
 
